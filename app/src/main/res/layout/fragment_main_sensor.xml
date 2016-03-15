@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_discover"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="make_discoverable"
+            android:textSize="10dp" />
+
+        <Button
+            android:id="@+id/btn_server"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="start advertise"
+            android:textSize="10dp" />
+
+        <Button
+            android:id="@+id/btn_start_find"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="order1"
+            android:textSize="10dp" />
+
+        <Button
+            android:id="@+id/btn_stop_find"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="order2"
+            android:textSize="10dp" />
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

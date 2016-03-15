@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="appcompat-v7-22.1.1">
+    <archive path="E:/android_work/BluetoothTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res" />
+    <archive path="E:/android_work/BluetoothTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar" />
+  </library>
+  <library name="support-v4-22.1.1">
+    <archive path="E:/android_work/BluetoothTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar" />
+    <archive path="E:/android_work/BluetoothTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/res" />
+    <archive path="E:/android_work/BluetoothTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar" />
+  </library>
+  <library name="support-annotations-22.1.1">
+    <archive path="D:/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
